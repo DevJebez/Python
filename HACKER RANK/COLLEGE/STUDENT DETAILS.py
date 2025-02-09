@@ -1,0 +1,8 @@
+n=input()
+a=int(input())
+c=float(input())
+g=input()
+print('Name:',n)
+print('Age:',a)
+print("CGPA:{:.2f}".format(c))
+print("Grade:",g)
