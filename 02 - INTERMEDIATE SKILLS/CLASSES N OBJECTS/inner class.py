@@ -53,7 +53,7 @@ class C:
 class D:
     def __init__(self):
     	print("In init D")
-    def feature6(self):
+	def feature6(self):
     	print('feature6 is working')
 
 class E(C,D):
